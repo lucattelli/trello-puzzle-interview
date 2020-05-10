@@ -4,7 +4,7 @@ Solving the Trello Puzzle
 I did this to answer a job posting @ Trello in 2015.
 
 ## The programming Puzzle
-Originally posted on http://web.archive.org/web/20141209192900/https://trello.com/jobs/developer
+Originally posted on http://web.archive.org/web/20141209192900/https://trello.com/jobs/developer and when I got mine, it didn't require you to write in JavaScript, so I wrote mine in Python.
 
 Write JavaScript (or CoffeeScript) code to find a 9 letter string of characters that contains only letters from
 
